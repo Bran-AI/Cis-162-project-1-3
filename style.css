@@ -1,0 +1,48 @@
+html{
+    background-color: blue
+}
+body{
+    color:orange;
+    background-color: blue
+}
+nav{
+    color:white;
+    background-color: #dbb51a;
+    text-align: center;
+}
+h1{
+    color:whitesmoke;
+    background-color:#dbb51a;
+    font-family: 'teko', 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    color: whitesmoke;
+    background-color:#dbb51a;
+    font-family: 'teko','Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 35px;
+}
+p{
+    color:whitesmoke;
+    font-family: 'orbitron', 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+ul,li{
+color:whitesmoke;
+font-family: 'Times New Roman', Times, serif;
+list-style: none;
+}
+footer{
+    color:whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #dbb51a;
+    margin-top: 50px
+}
+ol,li{
+    color:whitesmoke;
+    font-family: 'orbitron', 'Courier New', Courier, monospace;
+    list-style-type: none;
+}
